@@ -1,0 +1,9 @@
+public enum HareketAdi {
+    LAT_PULLDOWN,
+    SEATED_ROW,
+    ROPE_PULLOVER,
+    REVERSE_FLY,
+    INCLINE_DUMBBELL_CURL,
+    DUMBBELL_CURL
+
+}
